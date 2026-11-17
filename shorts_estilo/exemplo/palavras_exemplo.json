@@ -1,0 +1,9 @@
+[
+ {"word":"Ele","start":0.00,"end":0.25},{"word":"carrega","start":0.25,"end":0.60},{"word":"a","start":0.60,"end":0.68},
+ {"word":"espingarda","start":0.68,"end":1.20},{"word":"com","start":1.20,"end":1.35},{"word":"ouro.","start":1.35,"end":1.95},
+ {"word":"E","start":2.00,"end":2.10},{"word":"atira","start":2.10,"end":2.45},{"word":"na","start":2.45,"end":2.55},
+ {"word":"parede","start":2.55,"end":2.95},{"word":"da","start":2.95,"end":3.05},{"word":"mina.","start":3.05,"end":3.48},
+ {"word":"Sabe","start":3.50,"end":3.80},{"word":"por","start":3.80,"end":3.95},{"word":"quê?","start":3.95,"end":4.95},
+ {"word":"Amanhã","start":5.00,"end":5.40},{"word":"chega","start":5.40,"end":5.70},{"word":"um","start":5.70,"end":5.80},
+ {"word":"comprador.","start":5.80,"end":5.98}
+]

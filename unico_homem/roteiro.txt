@@ -1,0 +1,22 @@
+# Remake premium de "O único homem da cidade" — narrador: Leo (1ª pessoa), voz Will (ElevenLabs).
+# Confira com: python ../shorts_estilo/tools/checar_roteiro.py roteiro.txt
+# Mudanças: abertura com a multidão, sem o carro pintado, final novo (o novato pede um beijo).
+
+TÍTULO: O único homem da cidade
+
+[GANCHO]
+# close no Leo -> crane-out revelando a multidão de mulheres
+Nessa cidade, eu sou o único homem e todas as garotas me querem.
+
+[CONTEXTO]
+Toda manhã, preciso de uma pá pra sair de casa. Na porta, uma montanha de cartas, flores e ursinhos. Na sala de aula, trinta garotas brigam pela cadeira do meu lado. O professor criou até uma lista de espera oficial. Meu celular tinha trinta e seis mil mensagens não lidas.
+
+[DESCONFIANCA]
+Agora já são sessenta e sete mil. Mas o pior dia é o meu aniversário. É que a prefeita criou uma lei: ele virou feriado oficial na cidade. Todas as garotas me dão presente. Na minha porta aparecem duzentos bolos, um cavalo branco e um piano. Tenho um sofá em forma de coração e uma estátua minha de chocolate. E uma garota me deu um cachorro igualzinho a mim.
+
+[PROVA]
+Depois de tantos anos assim, eu cansei dessa vida. Me disfarcei com peruca e óculos escuros. Durou três segundos, até alguém reconhecer o formato da minha boca. Eu corri pra casa e tranquei a porta. Nesse exato momento, os alto-falantes anunciaram: chegou um homem novo na cidade! Todas as garotas correram atrás dele. Ufa, finalmente um pouco de sossego.
+
+[VIRADA]
+# fala do novato (balão + voz aguda, fora da contagem): ME DÁ UM BEIJO!
+Mas quando eu saí de casa, o novato veio correndo com flores. E foi aí que eu descobri que eu nunca vou ter sossego.

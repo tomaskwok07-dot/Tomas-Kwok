@@ -1,0 +1,5 @@
+plano,inicio,fim,cenario,alvo,tipo,distancia,altura,azimute,dolly_pct,pan_pct,tilt_pct,roll_graus,transicao_saida,transicao_quadros,efeito,frase
+1,0,59,mina,ze,medio,4.5,1.4,0,20,0,0,0,fusao,9,,Ele carrega a espingarda com ouro.
+2,60,104,mina,ze,close,2.5,1.5,25,15,8,0,3,corte,,tremor:75,E atira na parede da mina.
+3,105,149,rua,"0,0,1.2",aberto,7,1.6,-10,10,-15,0,0,fusao,9,,Sabe por quê?
+4,150,179,rua,"0,0,1.2",medio,4,1.4,10,25,0,0,0,fusao,9,flash:160,Amanhã chega um comprador.

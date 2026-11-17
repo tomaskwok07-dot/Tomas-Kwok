@@ -1,0 +1,22 @@
+plano,inicio,fim,duracao_s,cenario,tipo,camera,transicao_saida,transicao_quadros,efeito,frase
+1,0,106,3.57,abertura,close>aberto,"close no rosto do Leo, crane-out 24>18 mm ate quase zenital, roll -3",wipe por personagem,10,,"Nessa cidade, eu sou o único homem e todas as garotas me querem."
+2,107,295,6.3,porta,medio>aberto,"dolly na porta, depois grua para tras revelando a montanha",zoom-through,8,,"Toda manhã, preciso de uma pá pra sair de casa. Na porta, uma montanha de cartas, flores e ursinhos."
+3,296,391,3.2,sala,medio,"dolly 20% + pan 30% direita>esquerda, roll 2",whip pan,7,,"Na sala de aula, trinta garotas brigam pela cadeira do meu lado."
+4,392,460,2.3,lista,close,"tilt descendo a lista, dolly 15%",whip pan,7,,O professor criou até uma lista de espera oficial.
+5,461,595,4.5,celular,close,"celular em deriva lateral + aproximacao, quarto escuro",match cut,,punch:563,Meu celular tinha trinta e seis mil mensagens não lidas. Agora já são sessenta e sete mil.
+6,596,659,2.13,calendario,close>medio,"dolly-out do calendario, pan 20%, roll 3",zoom-through,8,,Mas o pior dia é o meu aniversário.
+7,660,765,3.53,lei,medio,"contra-plongee, dolly 20%, tilt subindo para a faixa",wipe por personagem,10,tremor:692,É que a prefeita criou uma lei: ele virou feriado oficial na cidade.
+8,766,922,5.23,presentes,medio>aberto,"garotas com presentes, pan rapido para a porta, travelling com o cavalo",match de forma (corações > sofá),12,tremor:912,"Todas as garotas me dão presente. Na minha porta aparecem duzentos bolos, um cavalo branco e um piano."
+9,923,1028,3.53,sofa,medio,"sofa inflando, pan rapido ate a estatua girando",whip pan,7,,Tenho um sofá em forma de coração e uma estátua minha de chocolate.
+10,1029,1101,2.43,cachorro,medio,"pan da garota ate o cachorro, dolly 20%",fusão,9,,E uma garota me deu um cachorro igualzinho a mim.
+11,1102,1190,2.97,cansado,medio>close,"dolly lento ate o rosto, roll 2",match cut,,punch:1158,"Depois de tantos anos assim, eu cansei dessa vida."
+12,1191,1256,2.2,disfarce,close,"dolly-out 15%, roll 4",corte seco,,,Me disfarcei com peruca e óculos escuros.
+13,1257,1357,3.37,tres,medio>close,"travelling lateral, zoom rapido na boca",whip pan,7,punch:1266;punch:1342,"Durou três segundos, até alguém reconhecer o formato da minha boca."
+14,1358,1418,2.03,corre,aberto,travelling lateral rapido ate a porta,whip pan,7,tremor:1402,Eu corri pra casa e tranquei a porta.
+15,1419,1504,2.87,altofalantes,medio,"contra-plongee subindo o poste, micro-tremor",zoom-through,8,,"Nesse exato momento, os alto-falantes anunciaram:"
+16,1505,1604,3.33,novato,medio>aberto,"dolly no novato, abre e acompanha a correria",wipe por personagem,10,tremor:1556,chegou um homem novo na cidade! Todas as garotas correram atrás dele.
+17,1605,1662,1.93,sossego,medio,dolly 20% + pan 20%,zoom-through,8,,"Ufa, finalmente um pouco de sossego."
+18,1663,1745,2.77,rua,aberto,"plano aberto da rua, dolly 15%, pan 20%",whip pan,6,,"Mas quando eu saí de casa, o novato veio correndo com flores."
+19,1746,1798,1.77,closenovato,close,"close em camera lenta, dolly 25%, roll 3",corte seco,,,(novato) ME DÁ UM BEIJO!
+20,1799,1830,1.07,closeleo,close extremo,"close extremo, tremor + flash + zoom punch",corte seco,,tremor:1799;flash:1799;punch:1799,E foi aí que eu descobri que eu
+21,1831,1904,2.47,perseguicao,aberto,"travelling lateral rapido, iris de coracao fechando no Leo e abrindo no close da abertura (loop)",íris de coração + loop,,,nunca vou ter sossego.

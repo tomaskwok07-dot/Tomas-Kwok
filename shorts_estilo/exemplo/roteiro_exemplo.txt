@@ -1,0 +1,17 @@
+# Exemplo fictício, só para mostrar o formato e testar o checador.
+TÍTULO: Por que o padeiro vendia pão queimado
+
+[GANCHO]
+Todo dia, às seis da manhã, o padeiro queimava de propósito o primeiro pão.
+
+[CONTEXTO]
+Sabe por quê? A vila tinha duas padarias, uma de cada lado da praça. As duas abriam no mesmo minuto. Os pães tinham o mesmo preço, o mesmo tamanho e o mesmo gosto. E a padaria do outro lado vendia o dobro.
+
+[DESCONFIANCA]
+A esposa achou que ele tinha enlouquecido. O cheiro de queimado subia pela chaminé e cobria a praça inteira. O padeiro rival passava na porta e ria. "Perdeu a mão, velho?" Mas o padeiro tinha uma regra. Um pão queimado por dia, nem um a mais. E nunca depois das seis e dez. Ele anotava cada fornada num caderninho de capa azul.
+
+[PROVA]
+Na primeira semana, ninguém na vila entendeu absolutamente nada. Na segunda, a fila começou a dobrar a esquina. Porque o cheiro de queimado chegava antes do sol. E quem acorda com cheiro de pão sai de casa com fome. Em um mês, ele vendia 300 pães antes das sete. O forno do rival esfriava cedo.
+
+[VIRADA]
+O rival tentou copiar o truque e acabou queimando a padaria inteira. E o caderninho só tinha uma anotação: horário do vento.

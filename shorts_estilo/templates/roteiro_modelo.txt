@@ -1,0 +1,25 @@
+# Modelo de roteiro. Preencha cada bloco; rode: python tools/checar_roteiro.py este_arquivo.txt
+# Alvo total: 190–220 palavras (≈ 60 s). Frases de 6–15 palavras, presente, 3ª pessoa.
+# Variante A: "Sabe por quê?" logo no contexto. Variante B: "É que…" só depois da prova.
+
+TÍTULO: Por que [grupo] [faz algo estranho]
+
+[GANCHO]
+# 0–3 s · 10–15 palavras · 1 frase: o ato absurdo, sem contexto
+[Personagem] [fez algo que parece absurdo] [com objeto inesperado].
+
+[CONTEXTO]
+# 3–15 s · 40–50 palavras · 4–5 frases: o problema e o que está em jogo
+Sabe por quê? [qual era o problema]. [quem está em jogo]. [o que pode perder, com um número].
+
+[DESCONFIANCA]
+# 15–35 s · 60–70 palavras · 6–8 frases: alguém duvida; regra estranha com número exato
+[Alguém] ri / duvida. Mas [personagem] tem uma regra: [regra com número exato]. [teste]. [reação].
+
+[PROVA]
+# 35–52 s · 50–60 palavras · 5–6 frases: o plano funciona, com consequência grande e visual
+Até que [situação de teste]. [o truque funciona]. [detalhe visual grande].
+
+[VIRADA]
+# 52–60 s · 20–25 palavras · 1–2 frases: muda o sentido; termina seco, sem pergunta
+[Frase final que revela quem ganhou, quem perdeu ou no que isso virou depois.]
